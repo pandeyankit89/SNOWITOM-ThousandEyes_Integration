@@ -25,7 +25,7 @@
    - **Timestamps:** Ensure set to `86400000` (1000 days)
    - **Collect:**
      - **Auth URL:** `https://mysnow.service-now.com/oauth_auth.do`
-     - **Client ID:** `0fd0f80509041ed4e23a216e1c3cad0d`
+     - **Client ID:** `xxxxxxxxxxxxxxxxxxxx`
 ---
 
 ## 🔧 Actions from ThousandEyes Admin
